@@ -1,0 +1,6 @@
+{
+  "name": "Kochi Residential Property Research & PDF Report",
+  "description": "Perform comprehensive web-based residential property searches in Kochi/Ernakulam, evaluate properties with a scoring framework, and generate professional PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

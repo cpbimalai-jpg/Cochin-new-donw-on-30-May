@@ -4,8 +4,12 @@
   "outputDirectory": "dist",
   "rewrites": [
     {
-      "source": "/api/(.*)",
-      "destination": "/api/index"
+      "source": "/api/properties",
+      "destination": "/api/properties"
+    },
+    {
+      "source": "/api/research-news",
+      "destination": "/api/research-news"
     },
     {
       "source": "/(.*)",
